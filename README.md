@@ -4,8 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=c77dff&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Gen+AI+Enthusiast;Software+Developer" alt="Typing SVG" />
 
   <br />
-  <a href="mailto:aadilpathan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/aadilpathan"><img src="https://img.shields.io/badge/LinkedIn-Connect-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=aadilpathan.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://linkedin.com/in/aadil-pathan-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/WhiteC0der"><img src="https://img.shields.io/badge/GitHub-WhiteC0der-e0aaff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 
   <br />
