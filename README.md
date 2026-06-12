@@ -106,7 +106,7 @@ A software engineer dedicated to building scalable backend architectures and int
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/WhiteC0der/WhiteC0der/output/github-contribution-grid-snake-dark.svg?v=1" alt="GitHub Snake" />
+<img src="https://raw.githubusercontent.com/WhiteC0der/WhiteC0der/f4baf8dd2da3a5a4cf7e0a072b5c10aa4fed991c/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </div>
 
 ---
