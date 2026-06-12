@@ -1,154 +1,340 @@
-<div align="center">
+# <div align="center">
 
-# 🌃 NIGHT CITY TERMINAL 🌃
-### `> connecting to user: Aadil Pathan.exe`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Aadil%20Pathan&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Welcome+to+Night+City;[Your quote];Aadil Pathan;System+Status%3A+[Your currentStatus]" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Engineer;Backend+Systems+Builder;Open+Source+Contributor;Building+Scalable+and+Reliable+Applications"/>
+
+<p>
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.92%2F10-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research%20Intern-MGIRI%20MSME-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-A855F7?style=for-the-badge"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-4F46E5?style=for-the-badge"/>
+</p>
+
+<p>
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/aadilpathan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aadilpathan.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=7C3AED"/>
+</p>
 
 </div>
 
 ---
 
+# About Me
+
+Software Engineer and Computer Science undergraduate focused on designing scalable systems, intelligent applications, and production-grade software solutions.
+
+I specialize in **Backend Engineering, Full Stack Development, AI/ML Systems, and Product-Oriented Software Engineering**. My experience spans modern web technologies, distributed systems, machine learning applications, cloud deployment, and real-time platforms.
+
+Currently working as a **Research Intern at MGIRI (MSME, Government of India)** where I contribute to AI-driven precision agriculture research involving hyperspectral imaging and machine learning. Based on resume details. :contentReference[oaicite:0]{index=0}
+
+### Open To
+
+- Software Engineering Internships
+- Backend Engineering Roles
+- Full Stack Development Opportunities
+- AI/ML Engineering Positions
+- Research Collaborations
+- Open Source Contributions
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,mysql"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi,flask"/>
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"/>
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Machine Learning | Advanced | Model development, training, evaluation |
+| Computer Vision | Advanced | Image processing, hyperspectral analysis |
+| Generative AI | Advanced | RAG, LLM integration, prompt engineering |
+| Vector Databases | Intermediate | MongoDB Vector Search |
+| Data Engineering | Intermediate | Data pipelines and preprocessing |
+| MLOps | Intermediate | Deployment and model serving |
+| NLP | Intermediate | Context-aware AI systems |
+| AI Product Engineering | Advanced | Production-ready AI applications |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🚀 MarketSense AI</b></summary>
+
+### AI-Powered Financial Intelligence Platform
+
+| Category | Details |
+|-----------|-----------|
+| Stack | React, Node.js, Express.js, MongoDB Atlas, Gemini |
+| Scale | Real-time financial intelligence platform |
+| Performance | Optimized API architecture |
+| Security | JWT Authentication |
+| Impact | AI-driven market insights |
+| Repository | GitHub Repository |
+
+#### Project Overview
+
+MarketSense AI is a production-ready financial intelligence platform that combines real-time market data, conversational AI, and Retrieval-Augmented Generation (RAG) to provide context-aware stock market insights.
+
+Key capabilities include:
+
+- Conversational financial search
+- Real-time stock analysis
+- MongoDB Vector Search integration
+- Gemini-powered intelligence
+- Scalable cloud deployment
+- Enterprise-grade API architecture
+
+</details>
+
+<details>
+<summary><b>🚖 Real-Time Ride Sharing System</b></summary>
+
+### Full Stack Transportation Platform
+
+| Category | Details |
+|-----------|-----------|
+| Stack | React, Node.js, Express.js, MongoDB |
+| Scale | Multi-user real-time platform |
+| Performance | Socket.IO live communication |
+| Security | JWT, bcrypt, protected routes |
+| Impact | Real-time ride matching |
+| Repository | GitHub Repository |
+
+#### Project Overview
+
+A full-stack ride-sharing platform designed with real-time communication, secure authentication, and live location tracking capabilities.
+
+Highlights:
+
+- Real-time ride matching
+- OTP ride verification
+- Google Maps integration
+- Live captain-user communication
+- Secure backend architecture
+- Production-ready deployment strategy
+
+</details>
+
+<details>
+<summary><b>🌶️ AI-Based Chilli Disease Detection</b></summary>
+
+### Precision Agriculture Research Project
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, Machine Learning, Computer Vision |
+| Scale | Research-grade AI system |
+| Performance | Hyperspectral image analysis |
+| Security | Research environment |
+| Impact | Precision agriculture |
+| Repository | Research Project |
+
+#### Project Overview
+
+Research-focused machine learning system leveraging hyperspectral imaging techniques for early disease detection in chilli crops.
+
+Features:
+
+- Hyperspectral data processing
+- Disease classification
+- Computer vision pipeline
+- Agricultural intelligence
+- AI-powered crop monitoring
+
+</details>
+---
+
+---
+
+# Achievements
+
 <div align="center">
 
-## 🔮 NEURAL INTERFACE ACTIVE 🔮
+| Recognition | Details |
+|-------------|----------|
+| LeetCode | Solved 350+ DSA problems |
+| AI Development | Built production-grade AI applications |
+| Full Stack Engineering | Developed scalable web platforms |
+| Academic Excellence | 8.92 CGPA |
+
+</div>
+
+
+--
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF0040,50:8000FF,75:0080FF,100:00FFFF&height=320&section=header&text=Aadil Pathan&fontSize=60&fontColor=00FFFF&animation=twinkling&fontAlignY=30&desc=Full Stack Developer and Machine Learning Engineer with a strong interest in Generative AI, building scalable web applications and intelligent systems.  
-Skilled in problem-solving, data structures, and real-world ML/AI solutions.  
-Always learning and exploring new technologies to create impactful products 🚀&descAlignY=65&descSize=20&stroke=FF0080&strokeWidth=2&textBg=true" alt="Profile Banner" />
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteC0der&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WhiteC0der&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteC0der&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-### 🎭 IDENTITY_MATRIX.dll
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=WhiteC0der&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhiteC0der&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/WhiteC0der/WhiteC0der/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
 ```yaml
-Name: Aadil Pathan
-Alias: WhiteCoder
-Location: India
-Corp: [Your company]
-Role: [Your role]
-Status: [Your currentStatus]
-Availability: [Your availability]
+Learning:
+  - System Design
+  - Advanced Backend Engineering
+  - Machine Learning at Scale
+  - Distributed Systems
+
+Building:
+  - AI-Powered Products
+  - Full Stack Applications
+  - Developer Tools
+  - Intelligent Automation Systems
+
+Exploring:
+  - Generative AI
+  - RAG Architectures
+  - Vector Databases
+  - Cloud Native Systems
+
+Open_To:
+  - Software Engineering Internships
+  - Backend Engineering Roles
+  - AI/ML Opportunities
+  - Open Source Collaboration
 ```
-
-### 💫 CURRENT_MISSION.exe
-> Build scalable software and intelligent AI systems that solve real-world problems and create meaningful impact.
-Continuously grow as a developer by mastering modern technologies, problem-solving, and system design.
-
-**🎯 Primary Focus:** [Your currentFocus]  
-**🚀 Next Objective:** [Your currentGoal]
 
 ---
 
+# Connect
+
 <div align="center">
 
-## ⚡ CYBERDECK SPECS ⚡
+<a href="mailto:aadilpathan.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-aadilpathan.dev%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=[Your username]&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
+<a href="https://linkedin.com/in/aadil-pathan-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Aadil%20Pathan-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadil Pathan&theme=neon-dark&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff6600&currStreakLabel=ff00ff" />
+<a href="https://github.com/WhiteC0der">
+<img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- <a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a> -->
 
 </div>
 
-### 🧠 NEURAL_STACK.sys
-<div align="center">
-
-**Primary Tech Stack**
-```
-[Your primaryTech]
-```
-
-**Languages:** [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,express,flask,mongodb,mysql,supabase,docker,aws,figma,pandas,scikitlearn,numpy,git,github,vscode,postman,jira,discord)](https://skillicons.dev)  
-**Frontend:** [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)  
-**Backend:** [![My Skills](https://skillicons.dev/icons?i=nodejs,python,express,flask)](https://skillicons.dev)  
-**Database:** [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,supabase)](https://skillicons.dev)  
-**Cloud:** [![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,mongodb&theme=dark" />
-
-</div>
-
----
-
-## 🌆 ACTIVE_PROJECTS.dir
-
-### 🔥 Project Alpha: MarketSense-AI
-```
-> Status: ACTIVE
-> Description: AI-Powered Financial Intelligence Platform
-
-Real-time stock analysis powered by Google Gemini AI and MongoDB Vector Search. Ask natural questions about any stock and get intelligent answers grounded in live financial news
-> Tech Stack: Frontend  Next.js 16 with TypeScript Tailwind CSS + shadcn/ui Recharts for data visualization Vercel hosting Backend  Node.js + Express 5 MongoDB Atlas with Vector Search Google Gemini 2.5 Flash AI Render hosting APIs & Services  Google Gemini (AI chat & embeddings) Yahoo Finance (stock data) Finnhub (market news)
-> Access Terminal: https://market-sense-ai.vercel.app
-```
-
-### ⚡ Project Beta: Real Ride Sharing Application
-```
-> Status: ACTIVE  
-> Description: A full-stack ride-sharing application built with the MERN stack, featuring real-time location tracking, ride matching, and Socket.IO for live updates.
-
-
-> Tech Stack: React,Node.js,Express,MongoDB,Socket.io,Google API
-> Access Terminal: [Your project2Link]
-```
-
-### 🌟 Project Gamma: [Your project3Name]
-```
-> Status: ACTIVE
-> Description: [Your project3Description]
-> Tech Stack: [Your project3Tech]
-> Access Terminal: [Your project3Link]
-```
-
 ---
 
 <div align="center">
 
-## 🎮 SYSTEM_STATS.log
+### "Engineering reliable software today while building intelligent systems for tomorrow."
 
-| Metric | Value |
-|--------|-------|
-| 💻 Programming Hours | [Your programmingHours]/week |
-| ☕ Coffee Consumed | [Your coffeeHours] cups/day |
-| 🔄 Currently Learning | Generative AI |
-| 🎯 Active Projects | 3 |
-
-</div>
-
-### 🏆 ACHIEVEMENT_UNLOCKED.dat
-- 🥇 **Solved 300+ problems across LeetCode and other platforms, strengthening my problem-solving and algorithmic thinking by consistently analyzing patterns and past trends.**
-- 🥈 **[Your achievement2]**
-- 🥉 **[Your achievement3]**
-
-### 💭 SYSTEM_WISDOM.txt
-> "Keep learning, keep building, and keep pushing boundaries"
-
-**Fun Fact:** [Your funFact]
-
----
-
-<div align="center">
-
-## 🌐 NETWORK_CONNECTIONS.link
-
-<a href="https://linkedin.com/in/[Your linkedin]">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=ff00ff" />
-</a>
-<a href="https://twitter.com/[Your twitter]">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=00ffff" />
-</a>
-<a href="[Your portfolio]">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117&color=ff6600" />
-</a>
-<a href="mailto:ap7064710@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=ff00ff" />
-</a>
-
-### 📡 TRANSMISSION_END
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
-
-*"Welcome to Night City, where dreams come true... for a price."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
 </div>
