@@ -74,16 +74,6 @@ A software engineer dedicated to building scalable backend architectures and int
 
 ---
 
-## 📊 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/u/whiteC0der786/">
-    <img src="https://leetcard.jacoblin.cool/whiteC0der786?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
